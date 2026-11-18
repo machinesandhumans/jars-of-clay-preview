@@ -8,15 +8,16 @@ Once they're approved, they're made on the real WordPress site.
 
 ## Changes in this preview (compared with the live site)
 
-1. **Homepage:** the photo next to "Treasure in Earthly Vessels" is replaced with the foundation brochure
-   (both sides). Clicking it opens the full PDF.
+1. **Homepage:** the original photo of JJ Matandika next to "Treasure in Earthly Vessels" is retained, and the welcome text is shortened. Both sides of the foundation brochure appear below that section, with links to the full PDF.
 2. **New page, "Dzuwa Farm Project"**, added to the top menu. It contains everything that used to be under
    "Biblical Stewardship & Agribusiness" on the Financial Sustainability page: text, photos, videos, and the
    Dzuwa slashing photos.
-3. **New "Spring 2025 Harvest" photo gallery** at the bottom of the Dzuwa Farm Project page (11 photos, click to enlarge).
+3. **New "Spring 2025 Harvest" photo gallery** at the bottom of the Dzuwa Farm Project page (8 photos in two groups, click to enlarge).
 4. **Financial Sustainability page** is now shorter: "Empowering a Self-Sustaining Church" and the
    "Jars of Clay Model" boxes.
 5. **Menu order:** Financial Sustainability, Dzuwa Farm Project, Leadership Training, ARPC Churches, Our Board, then Support.
+
+6. **ARPC Churches:** the geographic video and Africa/Malawi maps appear at the top. The video includes readable city and church labels and shows Lilongwe alongside the churches. Pastor Grant's photo is removed and Adison's caption now says "Pastor".
 
 ## Preview-only safeguards
 
